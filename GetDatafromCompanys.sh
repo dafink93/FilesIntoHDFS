@@ -1,7 +1,7 @@
 
 #Verbinde dich mit deinem Cluster
 
-#ssh bd01@cl-hpelb1-50-gw-01-lx-ub16.lxd
+#ssh bd01@cl-h.....
 
 mkdir Senden
 
