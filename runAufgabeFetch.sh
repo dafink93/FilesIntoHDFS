@@ -6,8 +6,10 @@ mkdir Senden
 
 cd Senden
 
-for i in AAPL  AMZN  
+#  
 
+
+for i in AAPL AMZN
 do
 #Historicalstockprice in Json
      wget "https://api.unibit.ai/historicalstockprice/$i?range=1y&interval=100&AccessKey=demo"
